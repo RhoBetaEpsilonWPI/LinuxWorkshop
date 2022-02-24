@@ -3,7 +3,8 @@ This repository is a set of challenge problems used for our linux terminal works
 
 # Instructions
 If you would like to try these challenges to test your Linux Terminal knowledge follow these steps:
-1. Download the files either as a zip or by cloning the repository with ```git clone https://github.com/RhoBetaEpsilonWPI/LinuxWorkshop.git```
+1. Download the files either as a zip or by cloning the repository with
+```git clone https://github.com/RhoBetaEpsilonWPI/LinuxWorkshop.git```
 2. Make the [challenge](https://github.com/RhoBetaEpsilonWPI/LinuxWorkshop/blob/master/challenge) file executable
 3. run the executable challenge file with the input argument 'start' to show the first hint
 4. Follow the provided hints to solve each challenge
